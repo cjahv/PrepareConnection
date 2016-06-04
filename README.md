@@ -16,9 +16,8 @@ public PrepareConnection prepareCall(String prepareName) {
 ```
 
 
-   
-        
-| 属性说明|
+# 属性说明   
+
 |  statement |  储存过程的原始返回值 |
 |---|---|
 |  list |  按照输出参数返回的Object[]列队 |
