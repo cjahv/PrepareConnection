@@ -18,10 +18,10 @@ public PrepareConnection prepareCall(String prepareName) {
 
 # 属性说明   
 
-|  属性      |  说明           |
+|属性         |说明             |
 |------------|------------------------------|
-|  statement |  储存过程的原始返回值           |
-|  list      |  按照输出参数返回的Object[]列队 |
+|statement |  储存过程的原始返回值           |
+|list      |  按照输出参数返回的Object[]列队 |
 
 # 方法说明
 
@@ -32,4 +32,4 @@ public PrepareConnection prepareCall(String prepareName) {
 |  execute      |  执行存储过程 |
 |  list      |  获取存储过程输出参数列队,懒加载 |
 
-吐槽下readme.md是谁抽风想出来的,非吉尔难写
+>>>吐槽下readme.md是谁抽风想出来的,非吉尔难写
