@@ -1,6 +1,6 @@
 # PrepareConnection
-简单的存储过程执行器 v1.0
-没有发现hibernate执行存储过程的方法就自己封装了!
+#####简单的存储过程执行器 v1.0
+#####没有发现hibernate执行存储过程的方法就自己封装了!
 
 # 使用方法
 可以在任何能获取hibernate session的地方使用 
