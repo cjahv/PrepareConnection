@@ -32,4 +32,3 @@ public PrepareConnection prepareCall(String prepareName) {
 |  execute      |  执行存储过程 |
 |  list      |  获取存储过程输出参数列队,懒加载 |
 
->>>吐槽下readme.md是谁抽风想出来的,非吉尔难写
